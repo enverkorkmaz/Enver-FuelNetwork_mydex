@@ -1,5 +1,5 @@
 
-# DEX Project - Comprehensive Decentralized Exchange
+# DEX Project
 
 ## Overview
 This project is a comprehensive Decentralized Exchange (DEX) application running on the Fuel Network. It allows users to trade crypto assets, add/remove liquidity, participate in decentralized governance, stake tokens, and manage a multisig wallet.
